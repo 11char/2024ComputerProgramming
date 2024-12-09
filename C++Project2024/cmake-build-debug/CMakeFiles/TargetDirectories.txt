@@ -1,0 +1,3 @@
+/Users/dachanseo/CLionProjects/C++Project2024/cmake-build-debug/CMakeFiles/C__Project2024.dir
+/Users/dachanseo/CLionProjects/C++Project2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dachanseo/CLionProjects/C++Project2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
